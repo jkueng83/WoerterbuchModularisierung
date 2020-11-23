@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HzDpKU8dP6Wou1z9NsDrFA+H04QjHa02/+0g5QdIyHMVmmuOSXWVIzMMkFPpqKJS1bVGU+R/Deco7A0tgcHgXg==",
+  "success": true,
+  "projectFilePath": "C:\\03_Coding\\02 Projects\\C#\\WoerterbuchModularisierung\\WoerterbuchLogic\\WoerterbuchLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DCV\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\DCV\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

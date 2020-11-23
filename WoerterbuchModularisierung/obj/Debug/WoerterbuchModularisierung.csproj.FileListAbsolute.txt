@@ -1,0 +1,13 @@
+C:\03_Coding\02 Projects\C#\WoerterbuchModularisierung\WoerterbuchModularisierung\bin\Debug\WoerterbuchModularisierung.exe.config
+C:\03_Coding\02 Projects\C#\WoerterbuchModularisierung\WoerterbuchModularisierung\bin\Debug\WoerterbuchModularisierung.exe
+C:\03_Coding\02 Projects\C#\WoerterbuchModularisierung\WoerterbuchModularisierung\bin\Debug\WoerterbuchModularisierung.pdb
+C:\03_Coding\02 Projects\C#\WoerterbuchModularisierung\WoerterbuchModularisierung\bin\Debug\WoerterbuchLogic.dll
+C:\03_Coding\02 Projects\C#\WoerterbuchModularisierung\WoerterbuchModularisierung\bin\Debug\WoerterbuchLogic.pdb
+C:\03_Coding\02 Projects\C#\WoerterbuchModularisierung\WoerterbuchModularisierung\obj\Debug\WoerterbuchModularisierung.csprojAssemblyReference.cache
+C:\03_Coding\02 Projects\C#\WoerterbuchModularisierung\WoerterbuchModularisierung\obj\Debug\WoerterbuchModularisierung.Form1.resources
+C:\03_Coding\02 Projects\C#\WoerterbuchModularisierung\WoerterbuchModularisierung\obj\Debug\WoerterbuchModularisierung.Properties.Resources.resources
+C:\03_Coding\02 Projects\C#\WoerterbuchModularisierung\WoerterbuchModularisierung\obj\Debug\WoerterbuchModularisierung.csproj.GenerateResource.cache
+C:\03_Coding\02 Projects\C#\WoerterbuchModularisierung\WoerterbuchModularisierung\obj\Debug\WoerterbuchModularisierung.csproj.CoreCompileInputs.cache
+C:\03_Coding\02 Projects\C#\WoerterbuchModularisierung\WoerterbuchModularisierung\obj\Debug\WoerterbuchModularisierung.csproj.CopyComplete
+C:\03_Coding\02 Projects\C#\WoerterbuchModularisierung\WoerterbuchModularisierung\obj\Debug\WoerterbuchModularisierung.exe
+C:\03_Coding\02 Projects\C#\WoerterbuchModularisierung\WoerterbuchModularisierung\obj\Debug\WoerterbuchModularisierung.pdb

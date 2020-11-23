@@ -1,0 +1,9 @@
+C:\03_Coding\02 Projects\C#\WoerterbuchModularisierung\WoerterbuchLogic\bin\Debug\netstandard2.0\WoerterbuchLogic.deps.json
+C:\03_Coding\02 Projects\C#\WoerterbuchModularisierung\WoerterbuchLogic\bin\Debug\netstandard2.0\WoerterbuchLogic.dll
+C:\03_Coding\02 Projects\C#\WoerterbuchModularisierung\WoerterbuchLogic\bin\Debug\netstandard2.0\WoerterbuchLogic.pdb
+C:\03_Coding\02 Projects\C#\WoerterbuchModularisierung\WoerterbuchLogic\obj\Debug\netstandard2.0\WoerterbuchLogic.csprojAssemblyReference.cache
+C:\03_Coding\02 Projects\C#\WoerterbuchModularisierung\WoerterbuchLogic\obj\Debug\netstandard2.0\WoerterbuchLogic.AssemblyInfoInputs.cache
+C:\03_Coding\02 Projects\C#\WoerterbuchModularisierung\WoerterbuchLogic\obj\Debug\netstandard2.0\WoerterbuchLogic.AssemblyInfo.cs
+C:\03_Coding\02 Projects\C#\WoerterbuchModularisierung\WoerterbuchLogic\obj\Debug\netstandard2.0\WoerterbuchLogic.csproj.CoreCompileInputs.cache
+C:\03_Coding\02 Projects\C#\WoerterbuchModularisierung\WoerterbuchLogic\obj\Debug\netstandard2.0\WoerterbuchLogic.dll
+C:\03_Coding\02 Projects\C#\WoerterbuchModularisierung\WoerterbuchLogic\obj\Debug\netstandard2.0\WoerterbuchLogic.pdb
