@@ -1,6 +1,6 @@
 ﻿namespace WoerterbuchModularisierung
 {
-    partial class Form1
+    partial class Dictionary
     {
         /// <summary>
         /// Required designer variable.
@@ -37,9 +37,9 @@
             // 
             // btReadDataFromFile
             // 
-            this.btReadDataFromFile.Location = new System.Drawing.Point(79, 48);
+            this.btReadDataFromFile.Location = new System.Drawing.Point(67, 30);
             this.btReadDataFromFile.Name = "btReadDataFromFile";
-            this.btReadDataFromFile.Size = new System.Drawing.Size(133, 23);
+            this.btReadDataFromFile.Size = new System.Drawing.Size(100, 23);
             this.btReadDataFromFile.TabIndex = 0;
             this.btReadDataFromFile.Text = "read data form file";
             this.btReadDataFromFile.UseVisualStyleBackColor = true;
@@ -47,9 +47,9 @@
             // 
             // btWriteDataToFile
             // 
-            this.btWriteDataToFile.Location = new System.Drawing.Point(331, 47);
+            this.btWriteDataToFile.Location = new System.Drawing.Point(187, 30);
             this.btWriteDataToFile.Name = "btWriteDataToFile";
-            this.btWriteDataToFile.Size = new System.Drawing.Size(75, 23);
+            this.btWriteDataToFile.Size = new System.Drawing.Size(100, 23);
             this.btWriteDataToFile.TabIndex = 1;
             this.btWriteDataToFile.Text = "write data to file";
             this.btWriteDataToFile.UseVisualStyleBackColor = true;
@@ -58,40 +58,40 @@
             // lBoxABC
             // 
             this.lBoxABC.FormattingEnabled = true;
-            this.lBoxABC.Location = new System.Drawing.Point(79, 226);
+            this.lBoxABC.Location = new System.Drawing.Point(12, 102);
             this.lBoxABC.Name = "lBoxABC";
-            this.lBoxABC.Size = new System.Drawing.Size(60, 173);
+            this.lBoxABC.Size = new System.Drawing.Size(49, 212);
             this.lBoxABC.TabIndex = 3;
             this.lBoxABC.MouseClick += new System.Windows.Forms.MouseEventHandler(this.lBoxABC_MouseClick);
             // 
             // lBoxSearchResult
             // 
             this.lBoxSearchResult.FormattingEnabled = true;
-            this.lBoxSearchResult.Location = new System.Drawing.Point(202, 216);
+            this.lBoxSearchResult.Location = new System.Drawing.Point(67, 102);
             this.lBoxSearchResult.Name = "lBoxSearchResult";
             this.lBoxSearchResult.Size = new System.Drawing.Size(549, 212);
             this.lBoxSearchResult.TabIndex = 4;
             // 
             // tBoxSearch
             // 
-            this.tBoxSearch.Location = new System.Drawing.Point(202, 178);
+            this.tBoxSearch.Location = new System.Drawing.Point(67, 72);
             this.tBoxSearch.Name = "tBoxSearch";
-            this.tBoxSearch.Size = new System.Drawing.Size(215, 20);
+            this.tBoxSearch.Size = new System.Drawing.Size(220, 20);
             this.tBoxSearch.TabIndex = 5;
             this.tBoxSearch.TextChanged += new System.EventHandler(this.tBoxSearch_TextChanged);
             // 
-            // Form1
+            // Dictionary
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(642, 338);
             this.Controls.Add(this.tBoxSearch);
             this.Controls.Add(this.lBoxSearchResult);
             this.Controls.Add(this.lBoxABC);
             this.Controls.Add(this.btWriteDataToFile);
             this.Controls.Add(this.btReadDataFromFile);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "Dictionary";
+            this.Text = "Dictionary";
             this.ResumeLayout(false);
             this.PerformLayout();
 

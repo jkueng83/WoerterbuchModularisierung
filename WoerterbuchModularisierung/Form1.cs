@@ -11,11 +11,11 @@ using WoerterbuchLogic;
 
 namespace WoerterbuchModularisierung
 {
-    public partial class Form1 : Form
+    public partial class Dictionary : Form
     {
         WoerterbuchController _woerterbuchController;
         string _filePath;
-        public Form1()
+        public Dictionary()
         {
             InitializeComponent();
             _woerterbuchController = new WoerterbuchController();
